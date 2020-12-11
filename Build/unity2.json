@@ -3,7 +3,7 @@
 "productName": "xin-interior",
 "productVersion": "0.1",
 "dataUrl": "unity2.data.unityweb",
-"wasmCodeUrl": "unity2.wasm.code.unityweb",
+"wasmCodeUrl": "unity2.wasm",
 "wasmFrameworkUrl": "unity2.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
